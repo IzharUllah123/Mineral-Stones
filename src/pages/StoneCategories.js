@@ -7,14 +7,14 @@ const stones = [
     image: "Rose Calcite.jpg", // Replace with the correct image path
     description:
       "Rose calcite is a powerful stone known for its gentle energy. It helps with emotional healing, promotes self-love, and reduces stress.",
-    price: "$50 per kg",
+    price: "$40 per kg",
   },
   {
     name: "Rhodonite",
     image: "Rhodonite.jpg", // Replace with the correct image path
     description:
       "Rhodonite is known for its emotional healing properties, relieving stress and anxiety, and keeping the wearer calm and centered.",
-    price: "$50 per kg",
+    price: "$40 per kg",
   },
   
   {
@@ -22,21 +22,21 @@ const stones = [
     image: "pink.jpg", // Replace with the correct image path
     description:
       "Pink Banded Onyx promotes grounding, physical strength, and vitality, especially during recovery.",
-    price: "$50 per kg",
+    price: "$40 per kg",
   },
   {
     name: "Rutile Serpentine",
     image: "Rutile Serpentine.jpg", // Replace with the correct image path
     description:
       "Rutile Serpentine provides a protective energy field, shielding from negativity and maintaining balance.",
-    price: "$50 per kg",
+    price: "$40 per kg",
   },
   {
     name: "Nephrite Sphere",
     image: "Nephrite Sphere.jpg", // Replace with the correct image path
     description:
       "Nephrite spheres amplify the soothing, healing properties of jade.",
-    price: "$50 per kg",
+    price: "$45 per kg",
   },
   {
     name: "Pistachio Calcite",
